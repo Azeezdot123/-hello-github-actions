@@ -136,7 +136,7 @@ In this step of our exercise, we will add a "build" job. We will specify `ubuntu
 <details id=3>
 <summary><h2>Step 3: Add actions to your workflow file</h2></summary>
 
-_Nice work adding a job to your workflow! :dancer:_
+_Nice work adding a job to your workflow! :dancer: :dancer:_
 
 Workflows have jobs, and jobs have steps. So now we'll add steps to your workflow.
 
